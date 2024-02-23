@@ -9,6 +9,10 @@ body {
     color: white;
     text-align: center;
   }
+.subHead {
+    color: aquamarine;
+    font-size: 10px;
+}
   body section a,
   a {
     color: aquamarine;
